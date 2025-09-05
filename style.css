@@ -389,16 +389,7 @@ footer {
   border-radius: 8px;   /* Rounded corners (optional) */
 
 }
-/* Styles for small phones */
-@media (max-width: 480px) {
-  body {
-    font-size: 14px;
-    padding: 10px;
-  }
-  nav {
-    display: none; /* example: hide big nav on tiny screens */
-  }
-}
+
 
 
 
