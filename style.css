@@ -389,3 +389,30 @@ footer {
   border-radius: 8px;   /* Rounded corners (optional) */
 
 }
+/* Styles for small phones */
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+  nav {
+    display: none; /* example: hide big nav on tiny screens */
+  }
+}
+
+/* Styles for tablets */
+@media (min-width: 481px) and (max-width: 768px) {
+  body {
+    font-size: 16px;
+    padding: 20px;
+  }
+}
+
+/* Styles for desktops */
+@media (min-width: 769px) {
+  body {
+    font-size: 18px;
+    padding: 40px;
+  }
+}
+
