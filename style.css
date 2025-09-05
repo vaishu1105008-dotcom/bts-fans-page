@@ -399,12 +399,7 @@ footer {
     display: none; /* example: hide big nav on tiny screens */
   }
 }
-/* Styles for desktops */
-@media (min-width: 769px) {
-  body {
-    font-size: 18px;
-    padding: 40px;
-  }
-}
+
+
 
 
