@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-image: url("E:/example1/images/logsin.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+
+    overflow: hidden;
+}
+
+    .login-box {
+      width: 340px;
+      padding: 70px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0px 10px 30px rgba(0,0,0,0.15);
+      border-color: #333;
+      
+    }
+    .login-box input {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+
+    .login-box button {
+      width: 100%;
+      padding: 12px;
+      background: #4A90E2;
+      border: none;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: 0.3s;
+    }
+
+    .login-box button:hover {
+      background: #357ABD;
+    }
+        .login-box p {
+      text-align: center;
+      margin-top: 15px;
+      font-size: 14px;
+    }
+
+    .login-box a {
+      color: #4A90E2;
+      text-decoration: none;
+    }
+      .right {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top:140px;
+      
+    }
+   .login-box h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+    .about p{
+      max-width: 700px;
+      margin: 10px;
+    }
