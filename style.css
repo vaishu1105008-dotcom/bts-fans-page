@@ -399,15 +399,6 @@ footer {
     display: none; /* example: hide big nav on tiny screens */
   }
 }
-
-/* Styles for tablets */
-@media (min-width: 481px) and (max-width: 768px) {
-  body {
-    font-size: 16px;
-    padding: 20px;
-  }
-}
-
 /* Styles for desktops */
 @media (min-width: 769px) {
   body {
@@ -415,4 +406,5 @@ footer {
     padding: 40px;
   }
 }
+
 
