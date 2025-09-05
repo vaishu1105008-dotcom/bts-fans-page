@@ -54,7 +54,7 @@ body{
   }
 
 .hero{
-    background-image: url("E:/BTS Fan page/images/bc1.jpeg");
+    background-image: url("images/bc1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -387,4 +387,5 @@ footer {
   max-width: 800px;     /* Restrict max size */
   height: auto;         /* Keep proportions */
   border-radius: 8px;   /* Rounded corners (optional) */
+
 }
