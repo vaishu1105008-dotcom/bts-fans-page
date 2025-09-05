@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 .bg{
-    background-image: url("E:/example1/images/logsin.jpeg");
+    background-image: url("images/logsin.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -71,3 +71,4 @@ body{
       max-width: 700px;
       margin: 10px;
     }
+
